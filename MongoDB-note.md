@@ -1,6 +1,4 @@
 # MongoDB筆記
-
-
 ## **MongoDB特色**
 1. 集合導向(collection orented)
 
@@ -12,7 +10,7 @@
 
 1. 文檔型資料庫
 
-意即我們儲存的數據是key：value的形式，鍵是字符串，值可以是數據類型集合裡的任意類型，包含數組及文檔。這個格式被稱為BSON，"Binary Serialized dOcument Notation"
+意即我們儲存的數據是{key：value}的形式，鍵是字符串，值可以是數據類型集合裡的任意類型，包含數組及文檔。這個格式被稱為BSON，"Binary Serialized dOcument Notation"
 
 
 ## **MongoDB適用場景**
